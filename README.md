@@ -35,13 +35,3 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YusufAbd05&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Yusuf's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YusufAbd05&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
